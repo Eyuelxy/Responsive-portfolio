@@ -1,0 +1,62 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: 
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul li a {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-decoration: none;
+}
+#header_img {
+	background-image: url(ES1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#Contact form {
+	padding: 10px;
+}
+
+#Contact form button {
+	width: 80px;
+	height: 40px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#Contact form input {
+	font-size: 20px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+#Contact form textarea {
+	font-size: 20px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+#Contact form label {
+	color: #000;
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-right: 0px;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+footer {
+	font-size: 50px;
+	margin-top: 150px;
+	text-align: center;
+	background-color: black;
+}
+
+footer address a {
+	margin-left: 20px;
+	margin-right: 20px;
+}
